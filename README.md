@@ -18,5 +18,5 @@ Predecir si un piloto de Fórmula 1 terminará en la zona de puntos (Top 10) bas
 ## 📂 Estructura del Repositorio
 * `/notebooks`: Cuaderno de Jupyter (`.ipynb`) con el pipeline completo (ETL, Entrenamiento, MLflow Tracking).
 * `/src`: Código fuente de la API (`api.py`) construida con FastAPI.
-* `/data`: CSV originales y el CSV tratado final utilizado para la elebarocación del modelo.
+* `/data`: CSV originales y el CSV tratado final utilizado para la eleboración del modelo.
 * `requirements.txt`: Dependencias necesarias para ejecutar el entorno.
