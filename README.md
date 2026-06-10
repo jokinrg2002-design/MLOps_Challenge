@@ -43,7 +43,7 @@ El proyecto está estructurado en las siguientes fases:
   
 ### Fase 4: Despliegue en Producción y Servido de Modelos
 * **Tecnología:** `FastAPI` & `Uvicorn`
-* **Explicación:** Se expone el modelo ganador mediante una API RESTful de alta velocidad. Si el modelo se reentrena y mejora la API cargará la nueva versión en su próximo reinicio sin necesidad de modificar una sola línea de código del servidor web. 
+* **Explicación:** Se muestra el modelo ganador mediante una API RESTful de alta velocidad. Si el modelo se reentrena y mejora la API cargará la nueva versión en su próximo reinicio sin necesidad de modificar una sola línea de código del servidor web. 
 
 ---
 
